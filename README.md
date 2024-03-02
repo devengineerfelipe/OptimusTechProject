@@ -1,2 +1,1 @@
-Descrição: Projeto proposto pela plataforma de cursos Alura e desenvolvido por mim.
-📚 Para estudo.
+Descrição: Projeto desafio proposto pela plataforma de cursos Alura da série 7DaysOfCode. Consiste no desenvolvimento de uma página 'OptimusTech' com HTML e CSS puro, sem nenhuma aplicação de framework.  
